@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Mapping","A mapping of a buffer for reading and writing."],["ReadMapping","A mapping of a buffer for reading."],["WriteMapping","A mapping of a buffer for write only."]]});
